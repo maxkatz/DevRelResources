@@ -1,7 +1,7 @@
 # DevRel Resources
 Developer Relations resources
 
-## Community Projects
+## Reaching Developers
 * [What are developer community projects?](https://developermode.com/blog/what-are-developer-community-projects/)
 
 ## Measuring
